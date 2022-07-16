@@ -4,7 +4,7 @@
     <p align="center">
     Listing and viewing the public repositories from Godaddy
     <br />
-    <a href="https://regal-axolotl-ea28c7.netlify.app/">View Demo</a>
+    <a href="https://62d32a79678e375ac2ca7bff--regal-axolotl-ea28c7.netlify.app/">View Demo</a>
   </p>
 </div>
 
