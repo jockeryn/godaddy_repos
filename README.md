@@ -15,7 +15,7 @@ This project is built in ReactJs using Vite framework and stylized with Boostrap
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
+Install NPM.
 * npm
   ```sh
   npm install npm@latest -g
